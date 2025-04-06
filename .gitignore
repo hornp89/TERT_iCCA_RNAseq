@@ -1,0 +1,25 @@
+# R related files
+.Rproj.user
+.Rhistory
+.RData
+
+# VS Code
+.vscode/
+*.code-workspace
+
+# Jupyter NB Checkpoints
+.ipynb_checkpoints/
+
+# exclude data from source control by default
+/data/
+/old_code/
+
+# data and results files
+.xlsx
+.csv
+.pdf
+.svg
+.png
+
+# gene set files
+.gmt 
